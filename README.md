@@ -81,7 +81,7 @@ lms-dashboard/
 <img width="629" height="447" alt="Marks_barchart_dashboard" src="https://github.com/user-attachments/assets/bc3c5cbf-4022-4ec5-aef1-de8408e7578d" />
 
 
-```
+
 
 ---
 
